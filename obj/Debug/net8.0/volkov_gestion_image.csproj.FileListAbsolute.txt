@@ -1,0 +1,15 @@
+/home/lostya/projects/school/c#/gestion-image/obj/Debug/net8.0/volkov_gestion_image.GeneratedMSBuildEditorConfig.editorconfig
+/home/lostya/projects/school/c#/gestion-image/obj/Debug/net8.0/volkov_gestion_image.AssemblyInfoInputs.cache
+/home/lostya/projects/school/c#/gestion-image/obj/Debug/net8.0/volkov_gestion_image.AssemblyInfo.cs
+/home/lostya/projects/school/c#/gestion-image/obj/Debug/net8.0/volkov_gestion_image.csproj.CoreCompileInputs.cache
+/home/lostya/projects/school/c#/gestion-image/obj/Debug/net8.0/volkov_gestion_image.sourcelink.json
+/home/lostya/projects/school/c#/gestion-image/bin/Debug/net8.0/volkov_gestion_image
+/home/lostya/projects/school/c#/gestion-image/bin/Debug/net8.0/volkov_gestion_image.deps.json
+/home/lostya/projects/school/c#/gestion-image/bin/Debug/net8.0/volkov_gestion_image.runtimeconfig.json
+/home/lostya/projects/school/c#/gestion-image/bin/Debug/net8.0/volkov_gestion_image.dll
+/home/lostya/projects/school/c#/gestion-image/bin/Debug/net8.0/volkov_gestion_image.pdb
+/home/lostya/projects/school/c#/gestion-image/obj/Debug/net8.0/volkov_gestion_image.dll
+/home/lostya/projects/school/c#/gestion-image/obj/Debug/net8.0/refint/volkov_gestion_image.dll
+/home/lostya/projects/school/c#/gestion-image/obj/Debug/net8.0/volkov_gestion_image.pdb
+/home/lostya/projects/school/c#/gestion-image/obj/Debug/net8.0/volkov_gestion_image.genruntimeconfig.cache
+/home/lostya/projects/school/c#/gestion-image/obj/Debug/net8.0/ref/volkov_gestion_image.dll

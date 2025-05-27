@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCZeOTayTY9r25/Ket35U35gBbrI1LJG3duO2HVnbu6BfcGFV/85rVs8BGsBKkRIdkGQzYa42EFAcCYuQ1DGSA==",
+  "success": true,
+  "projectFilePath": "/home/lostya/projects/school/c#/gestion-image/volkov_gestion_image.csproj",
+  "expectedPackageFiles": [
+    "/home/lostya/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
